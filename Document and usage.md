@@ -129,7 +129,7 @@ Filters out irrelevancies that pollute other tools:
 
 1. Navigate to the `python_service` directory:
    ```powershell
-   cd C:\Users\aditya.upadhya\.gemini\antigravity-ide\scratch\js_api_extractor\python_service
+   js_api_extractor\python_service
    ```
 2. Install Python dependencies:
    ```powershell
@@ -148,7 +148,7 @@ Filters out irrelevancies that pollute other tools:
 
 1. Navigate to the `burp_extension` directory:
    ```powershell
-   cd C:\Users\aditya.upadhya\.gemini\antigravity-ide\scratch\js_api_extractor\burp_extension
+   js_api_extractor\burp_extension
    ```
 2. Run the automated compiler script:
    ```powershell
@@ -162,7 +162,7 @@ Filters out irrelevancies that pollute other tools:
 2. Go to **Extensions** -> **Installed** -> click **Add**.
 3. Select **Extension type**: `Java`.
 4. Browse and select:
-   `C:\Users\aditya.upadhya\.gemini\antigravity-ide\scratch\js_api_extractor\burp_extension\js-api-extractor-1.0.0.jar`
+   `js_api_extractor\burp_extension\js-api-extractor-1.0.0.jar`
 5. Confirm output log message:
    ```text
    [+] JS API Extractor Montoya Extension Initializing...
