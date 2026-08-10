@@ -11,3 +11,5 @@ BOLA / IDOR Attack Matrix: Automatically flags dynamic resource paths ({userId})
 Secret & Flag Scanner: Discovers hardcoded API keys, AWS credentials, JWT storage sinks (localStorage), and client-side role guards (isAdmin()).
 Zero-Noise Engine: Filters out W3C XML namespaces, CDN script tags, static assets, and code keywords.
 OpenAPI 3.0 & Postman Export: Exports the complete discovered attack surface into Swagger JSON or Postman Collections with one click.
+
+AST-driven engine means the extension doesn't just "grep" for words—it reverse-engineers the structural code logic to accurately map API routes, HTTP verbs, payload shapes, and authorization parameters straight from minified bundles.
